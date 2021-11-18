@@ -1,5 +1,5 @@
-# TurtleCoin® Open Issues Browser
-TurtleCoin® Open Issues Browser v2020 - Live site: [turtlecoin.github.io/trtl-issues/](https://turtlecoin.github.io/trtl-issues/)
+# Cynsar Foundation Open Issues Browser
+CF Open Issues Browser v2021 - Live site: [meta.cynsar.foundation/trtl-issues/](https://turtlecoin.github.io/trtl-issues/)
 
 ![screely-1598493729772](https://user-images.githubusercontent.com/8020386/91375139-71a4b680-e84c-11ea-8503-7f3774678224.png)
 
