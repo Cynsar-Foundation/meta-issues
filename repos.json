@@ -6,5 +6,33 @@
     {
         "full_name": "Cynsar-Foundation/ui",
         "name": "ui"
+    },
+    {
+        "full_name": "Cynsar-Foundation/ui",
+        "name": "second.contracts"
+    },
+    {
+        "full_name": "Cynsar-Foundation/ui",
+        "name": "ans-contracts"
+    },
+    {
+        "full_name": "Cynsar-Foundation/ui",
+        "name": "dvote-js"
+    },
+    {
+        "full_name": "Cynsar-Foundation/ui",
+        "name": "vocdoni-node"
+    },
+    {
+        "full_name": "Cynsar-Foundation/ui",
+        "name": "second.exchange"
+    },
+    {
+        "full_name": "Cynsar-Foundation",
+        "repo_name": "subdomain-registrar"
+    },
+    {
+        "full_name": "Cynsar-Foundation",
+        "repo_name": "metaRoot"
     }
 ]

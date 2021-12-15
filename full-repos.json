@@ -6,5 +6,34 @@
     {
         "user_name": "Cynsar-Foundation",
         "repo_name": "ui"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "second.contracts"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "ans-contracts"
     }
+    ,{
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "dvote-js"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "vocdoni-node"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "second.exchange"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "subdomain-registrar"
+    },
+    {
+        "user_name": "Cynsar-Foundation",
+        "repo_name": "metaRoot"
+    }
+
 ]
